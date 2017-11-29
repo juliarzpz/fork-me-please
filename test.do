@@ -51,6 +51,7 @@ dummieslab town_id
 
 
 // Add your favourite (or any other) command below
+sum dummieslab
 
 
 // Save data
